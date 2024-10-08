@@ -454,7 +454,7 @@ def visualization():
         "#### This dashboard was created by [Eng. Mohamed Nasr](https://www.linkedin.com/in/medoox369)."
     )
     st.write(
-        "#### The code for this dashboard is available on [GitHub](https://github.com/medoox369/Cars-sales)"
+        "#### The code for this dashboard is available on [GitHub](https://github.com/medoox369/Cars_sales/)"
     )
     st.write("______________")
     st.write("## End of Dashboard")
@@ -737,7 +737,7 @@ def report():
         "#### This dashboard was created by [Eng. Mohamed Nasr](https://www.linkedin.com/in/medoox369)."
     )
     st.write(
-        "#### The code for this dashboard is available on [GitHub](https://github.com/medoox369/Cars-sales)"
+        "#### The code for this dashboard is available on [GitHub](https://github.com/medoox369/Cars_sales/)"
     )
     st.write("______________")
     st.write("## End of Report")
@@ -806,7 +806,7 @@ def predictions():
         "#### This dashboard was created by [Eng. Mohamed Nasr](https://www.linkedin.com/in/medoox369)."
     )
     st.write(
-        "#### The code for this dashboard is available on [GitHub](https://github.com/medoox369/Cars-sales)"
+        "#### The code for this dashboard is available on [GitHub](https://github.com/medoox369/Cars_sales/)"
     )
     st.write("______________")
     st.write("## Thank You :smile:")
