@@ -6,7 +6,16 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
-
+st.markdown(
+        """
+        <style>
+        body {
+            background-color: black;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
 
 def visualization():
     import numpy as np
